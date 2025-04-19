@@ -43,7 +43,11 @@ This project presents a comprehensive annual sales analysis for a fictional clot
 - Boosted operational planning by identifying seasonal trends and 92% order success rate, enabling better inventory and logistics management.
 
 --- 
+## Pivot Tables and Workflow
 
+View pivot tables and data processing steps in the *Clothing Store Annual Report 2024.xlsx* file within the repository.
+
+--- 
 
 ## Connect with Me
 
