@@ -39,7 +39,7 @@ This project presents a comprehensive annual sales analysis for a fictional clot
 ## Project Impact
 - Unlocked ₹25M+ worth of business insights, identifying key growth areas like top-performing states, profitable customer segments, and high-converting sales channels.
 - Discovered that 64% of revenue came from female customers, helping shape future product and marketing strategies.
-- Improved targeting and budgeting by pinpointing Amazon, Flipkart, and Myntra as highest-performing platforms — directly supporting smarter ad spend.
+- Improved targeting and budgeting by pinpointing Amazon, Flipkart, and Myntra as highest-performing platforms - directly supporting smarter ad spend.
 - Boosted operational planning by identifying seasonal trends and 92% order success rate, enabling better inventory and logistics management.
 
 --- 
